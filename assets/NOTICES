@@ -7626,7 +7626,6 @@ url_launcher_platform_interface
 --------------------------------------------------------------------------------
 harfbuzz
 
-<<<<<<< HEAD
 Copyright (C) 2011  Google, Inc.
 
  This is part of HarfBuzz, a text shaping library.
@@ -7651,8 +7650,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-=======
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 Copyright (C) 2012 Grigori Goronzy <greg@kinoho.net>
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -7669,7 +7666,6 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 --------------------------------------------------------------------------------
 harfbuzz
 
-<<<<<<< HEAD
 Copyright (C) 2013  Google, Inc.
 
  This is part of HarfBuzz, a text shaping library.
@@ -7694,8 +7690,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-=======
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 Copyright © 1998-2004  David Turner and Werner Lemberg
 Copyright © 2004,2007,2009  Red Hat, Inc.
 Copyright © 2011,2012  Google, Inc.
@@ -7976,7 +7970,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-<<<<<<< HEAD
 Copyright © 2007,2008,2009  Red Hat, Inc.
 Copyright © 2018,2019,2020  Ebrahim Byagowi
 Copyright © 2018  Khaled Hosny
@@ -8003,8 +7996,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-=======
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 Copyright © 2007,2008,2009,2010  Red Hat, Inc.
 Copyright © 2010,2012  Google, Inc.
 
@@ -9390,11 +9381,7 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 harfbuzz
 
 Copyright © 2018  Ebrahim Byagowi
-<<<<<<< HEAD
 Copyright © 2020  Google, Inc.
-=======
-Copyright © 2018  Khaled Hosny
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 
  This is part of HarfBuzz, a text shaping library.
 
@@ -9660,7 +9647,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-<<<<<<< HEAD
 Copyright © 2019-2020  Ebrahim Byagowi
 
  This is part of HarfBuzz, a text shaping library.
@@ -9733,20 +9719,13 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 --------------------------------------------------------------------------------
 harfbuzz
 
-=======
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 HarfBuzz is licensed under the so-called "Old MIT" license.  Details follow.
 For parts of HarfBuzz that are licensed under different licenses see individual
 files names COPYING in subdirectories where applicable.
 
-<<<<<<< HEAD
 Copyright © 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020  Google, Inc.
 Copyright © 2018,2019,2020  Ebrahim Byagowi
 Copyright © 2019,2020  Facebook, Inc.
-=======
-Copyright © 2010,2011,2012,2013,2014,2015,2016,2017,2018,2019  Google, Inc.
-Copyright © 2019  Facebook, Inc.
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 Copyright © 2012  Mozilla Foundation
 Copyright © 2011  Codethink Limited
 Copyright © 2008,2010  Nokia Corporation and/or its subsidiary(-ies)
@@ -15248,11 +15227,7 @@ wasmer
 
 MIT License
 
-<<<<<<< HEAD
 Copyright (c) 2019-present Wasmer, Inc. and its affiliates.
-=======
-Copyright (c) 2019 Wasmer, Inc. and its affiliates.
->>>>>>> 954736a74b57f2609cb853c0d19e1dbdedac6dad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
